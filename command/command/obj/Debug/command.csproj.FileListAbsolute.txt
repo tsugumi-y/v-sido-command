@@ -1,0 +1,17 @@
+C:\Users\Simeon\Downloads\command_v3\command\command\bin\Debug\command.exe.config
+C:\Users\Simeon\Downloads\command_v3\command\command\bin\Debug\command.exe
+C:\Users\Simeon\Downloads\command_v3\command\command\bin\Debug\command.pdb
+C:\Users\Simeon\Downloads\command_v3\command\command\obj\Debug\command.Form1.resources
+C:\Users\Simeon\Downloads\command_v3\command\command\obj\Debug\command.Properties.Resources.resources
+C:\Users\Simeon\Downloads\command_v3\command\command\obj\Debug\command.csproj.GenerateResource.Cache
+C:\Users\Simeon\Downloads\command_v3\command\command\obj\Debug\command.exe
+C:\Users\Simeon\Downloads\command_v3\command\command\obj\Debug\command.pdb
+C:\Users\Simeon\Source\Repos\v-sido-command\command\command\bin\Debug\command.exe.config
+C:\Users\Simeon\Source\Repos\v-sido-command\command\command\obj\Debug\command.exe
+C:\Users\Simeon\Source\Repos\v-sido-command\command\command\obj\Debug\command.pdb
+C:\Users\Simeon\Source\Repos\v-sido-command\command\command\bin\Debug\command.exe
+C:\Users\Simeon\Source\Repos\v-sido-command\command\command\bin\Debug\command.pdb
+C:\Users\Simeon\Source\Repos\v-sido-command\command\command\obj\Debug\command.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Source\Repos\v-sido-command\command\command\obj\Debug\command.Form1.resources
+C:\Users\Simeon\Source\Repos\v-sido-command\command\command\obj\Debug\command.Properties.Resources.resources
+C:\Users\Simeon\Source\Repos\v-sido-command\command\command\obj\Debug\command.csproj.GenerateResource.Cache
